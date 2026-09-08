@@ -6,8 +6,13 @@
 
 #### [Página web DarwinCore](https://github.com/matichamorro/Proyecto-Seminario-de-Lenguajes)
 
-- Trabajo Integrador Práctico grupal, para la materia Seminario de Lenguajes
+- Trabajo Integrador Práctico grupal, para la materia Seminario de Lenguajes (Finalizado)
 - Usando tecnologías como Python, Jupyter Notebook; y librerías como Streamlit y Pandas.
+
+#### [Sandbox de Cartas](https://github.com/matichamorro/sandbox-de-cartas)
+
+- Proyecto en Godot, actualmente Singleplayer.
+- Usando tecnologías como GDScript.
 
 ---
 
